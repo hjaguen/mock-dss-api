@@ -1,0 +1,56 @@
+{
+  "vehicles": [
+    {
+      "id": "1",
+      "plateNo": "ABC-123",
+      "entranceGroupIds": [
+        "2"
+      ]
+    },
+    {
+      "id": "2",
+      "plateNo": "XYZ-789",
+      "entranceGroupIds": []
+    },
+    {
+      "id": "3",
+      "plateNo": "R2D-2C3",
+      "entranceGroupIds": []
+    },
+    {
+      "id": "4",
+      "plateNo": "L33T-H4X",
+      "entranceGroupIds": []
+    },
+    {
+      "id": "5",
+      "plateNo": "B4T-M4N",
+      "entranceGroupIds": []
+    },
+    {
+      "id": "6",
+      "plateNo": "SUP-RMN",
+      "entranceGroupIds": []
+    },
+    {
+      "id": "7",
+      "plateNo": "WND-RWN",
+      "entranceGroupIds": []
+    },
+    {
+      "id": "8",
+      "plateNo": "FLA-SH",
+      "entranceGroupIds": []
+    },
+    {
+      "id": "9",
+      "plateNo": "GRN-LNT",
+      "entranceGroupIds": []
+    },
+    {
+      "id": "10",
+      "plateNo": "CYB-RG",
+      "entranceGroupIds": []
+    }
+  ]
+}
